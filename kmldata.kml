@@ -3,7 +3,7 @@
   <Placemark>
     <name>My office</name>
     <description>
-        <img src="http://archive.museum.seoul.kr:8090/upload/ckeditor/2017/12/18/3c11b023-6e0e-4d40-9e1c-471bba97192a.JPG">
+        "<img src="http://archive.museum.seoul.kr:8090/upload/ckeditor/2017/12/18/3c11b023-6e0e-4d40-9e1c-471bba97192a.JPG">"
     </description>
     <Point>
       <coordinates>37.56156182,126.9733034</coordinates>
